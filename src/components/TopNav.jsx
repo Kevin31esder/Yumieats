@@ -28,7 +28,7 @@ function TopNav() {
       </div>
       <div className='bg-gray-200 rounded-full flex items-center px-2 w-[200px] sm:w-[400px] lg:w-[900px]'>
             <AiOutlineSearch size={25}/>
-            <input className='bg-transparent p-2 w-full focus:outline-none' placeholder='Buscar'/>
+            <input className='bg-transparent p-2 w-full focus:outline-none' placeholder='Search'/>
       </div>
      <button className='bg-orange-700 text-white hidden md:flex items-center p-2  rounded-full text-1xl w-[80px] self-center'>
       <BsFillCartFill size={20}/>Cart 
